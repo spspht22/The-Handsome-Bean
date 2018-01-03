@@ -1,0 +1,125 @@
+body {
+	margin: 0;
+}
+
+.about {
+	background-color: #F8F5F2;
+	margin: 0;
+	padding: 17px 161px;
+}
+
+.main-logo {
+	max-width: 108px;
+}
+
+.nav-display, .first, .second {
+	display: inline-block;
+}
+
+.first {
+    display: inline-block;
+    padding: 0;
+    position: absolute;
+    top: 50px;
+    right: 600px;
+    font-family: 'Asap', sans-serif;
+}
+
+.first li {
+	display: inline-block;
+    margin: 0 17px;
+}
+
+.first li a {
+	text-decoration: none;
+	color: #332D2D;
+}
+
+.second {
+	display: inline-block;
+	padding: 0;
+	float: right;
+	position: relative;
+    top: 32px;
+}
+
+.second li {
+	display: inline-block;
+	margin: 0 10px;
+}
+}
+
+.second li a {
+	color: #332D2D;
+	margin: 0 10px;
+}
+
+section {
+	margin: 0 auto;
+	padding: 80px 185px;
+	text-align: center;
+}
+
+/*next section*/
+
+h2 {
+	font-family: 'Asap', sans-serif;
+	font-size: 16px;
+	line-height: 1.4em;
+}
+
+p {
+	font-family: 'Work Sans', sans-serif;
+
+}
+
+span {
+	 margin: 0 30px;
+}
+
+/*hr*/
+
+.hr-line {
+	margin: 35px 0;
+}
+/* section of images*/
+img.thumbnail {
+	width: 100%;
+}
+
+.imgdiv {
+	margin: 20px 0;
+}
+
+div.coffeecup {
+	text-align: center;
+	width: 90%;
+	padding: 0px 60px;
+}
+
+div.coffeewebsite {
+	padding: 0 15px;
+}
+
+div.coffeecontent {
+	padding: 0 160px;
+}
+
+/*grey section*/
+.grey {
+	background-color: #FCFCFC;
+	padding: 40px 185px;
+	text-align: center;
+}
+footer {
+	text-align: center;
+	background-color: #FCFCFC;
+	height: 410px;
+}
+.footerimg {
+	margin: 10px 0;
+	display: inline-block;
+	height: 192px;
+	width: 192px;
+
+}
